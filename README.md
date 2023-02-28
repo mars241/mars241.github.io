@@ -1,1 +1,1 @@
-# publisher-wcs_mars241.github.io
+# mars241.github.io
